@@ -1,9 +1,9 @@
 ### Deep Learning for Self-Driving Car by the MIT 
-*This class is an introduction to the practice of deep learning through the applied theme of building a self-driving car: 
+* This class is an introduction to the practice of deep learning through the applied theme of building a self-driving car: 
 https://selfdrivingcars.mit.edu
 
 ### Best Blog on the subject 
-David Silver on Medium: https://medium.com/@dsilver829
+* David Silver on Medium: https://medium.com/@dsilver829
 
 ### Use of Generative Adversarial Networks for Self-Driving Car 
 * GANs for Limited Labeled Data by Ian Goodfellow- NIPS 2017: http://www.iangoodfellow.com/slides/2017-12-09-label.pdf
